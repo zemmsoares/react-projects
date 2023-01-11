@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+		"name": "City of god",
+		"pt_name": "Cidade de deus",
+		"cover": "https://media-cache.cinematerial.com/p/500x/7hhve0ob/cidade-de-deus-movie-poster.jpg?v=1456259667",
+		"yt_link": "https://www.youtube.com/embed/dcUOO4Itgmw",
+		"imdb_classification": "8.6",
+		"description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+		"year": "2002",
+        "tags": ["Crime"]
+    	},
+        {
+		"name": "The Platform",
+		"pt_name": "El hoyo",
+		"cover": "https://media-cache.cinematerial.com/p/500x/9ez2ch4d/el-hoyo-spanish-movie-poster.jpg?v=1570125797",
+		"yt_link": "https://www.youtube.com/embed/24Lf7fmKIXI",
+		"imdb_classification": "7.0",
+		"description": "A vertical prison with one cell per level. Two people per cell. Only one food platform and two minutes per day to feed. An endless nightmare trapped in The Hole.",
+		"year": "2019",
+        "tags": ["Horror","Thriller"]
+    	}
+    ]
+}
