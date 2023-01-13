@@ -1,2 +1,5 @@
 # ignore all /node_modules
 **/node_modules
+
+# ignore react / tailwind boilerplate
+boilerplate/
